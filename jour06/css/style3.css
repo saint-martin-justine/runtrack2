@@ -1,0 +1,9 @@
+.submit input {
+    border : 2px solid pink;
+    padding: 5px;
+    border-radius: 25px;
+    font-size: 3rem;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
